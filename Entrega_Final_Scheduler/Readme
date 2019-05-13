@@ -1,0 +1,9 @@
+Per a executar el programa, introduiu la comanda 
+
+$ java -jar Scheduler.jar
+
+En cas que no funcioni i calgui recompilar, executeu la comanda seguent
+
+$ make
+
+Els 3 Readme restants detallen la idea de la execucio amb els parametres dels seus respectius Input
