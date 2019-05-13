@@ -1,1 +1,0 @@
-Existen dos carpetas, Scheduler contiene el programa que se ejecuta desde la consola y Entrega_Final_Scheduler contiene la parte con GUI (que no esta acabada del todo, mas explicacion en Memoria_Entrega2.pdf)
